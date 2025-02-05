@@ -1,7 +1,11 @@
 # GIS Projects Repository
 
 ---
-[Go to Geologic Maps](#Geologic-Maps)
+
+[Go to Geologic Maps](#Geologic-Maps)  
+[Go to Location Maps](#Location-Maps)  
+[Go to Topographic Maps](#Topographic-Maps)  
+
 ## Geologic Maps
 
 <div>
@@ -19,7 +23,7 @@
 
 ---
 
-## 📍 Location Maps
+## Location Maps
 <div>
     <img src="https://github.com/Husayn01/GIS-Projects/blob/main/Location%20Maps/Location%20Map%20of%20Niger%20State.png" alt="Topographic Map 1" width="300" style="margin: 5px;">
     <img src="https://github.com/Husayn01/GIS-Projects/blob/main/Location%20Maps/Location_Map%20(1).jpg" width="300" style="margin: 5px;">
@@ -31,7 +35,7 @@
 
 #### Tools Used:
 <img src="https://img.shields.io/badge/-ArcGIS%20Pro-0077B5?logo=ArcGIS&logoColor=white&style=for-the-badge" alt="ArcGIS Pro"><img src="https://img.shields.io/badge/-Google%20Maps-EF4339?logo=google-maps&logoColor=white&style=for-the-badge" alt="Google Maps"><img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel">
-## 🗺️ Topographic Maps
+## Topographic Maps
 <div>
     <img src="https://github.com/Husayn01/GIS-Projects/blob/main/Topographic%20Maps/A5.jpg" alt="Topographic Map 1" width="300" style="margin: 5px;">
     <img src="https://github.com/Husayn01/GIS-Projects/blob/main/Topographic%20Maps/Topo%20Map.jpg" width="300" style="margin: 5px;">
