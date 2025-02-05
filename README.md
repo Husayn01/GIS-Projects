@@ -1,8 +1,8 @@
 # GIS Projects Repository
 
 ---
-
-## 🪨 Geologic Maps
+[Go to Geologic Maps](#Geologic Maps)
+## Geologic Maps
 
 <div>
     <img src="https://github.com/Husayn01/GIS-Projects/blob/main/Geologic%20Maps/Geologic%20Map%201.jpg" alt="Topographic Map 1" width="300" style="margin: 5px;">
