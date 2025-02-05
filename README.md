@@ -1,7 +1,7 @@
 # GIS Projects Repository
 
 ---
-[Go to Geologic Maps](#Geologic Maps)
+[Go to Geologic Maps](#Geologic-Maps)
 ## Geologic Maps
 
 <div>
